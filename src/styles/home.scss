@@ -1,0 +1,31 @@
+.nav-images {
+    text-align: center;
+}
+
+.nav-images > img {
+    height: 40vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center bottom;
+}
+
+.row h2 {
+    font-family: 'Pacifico', sans-serif;
+    text-align: center;
+    font-size: calc(10px + 10vh);
+}
+  
+.col > p {
+    text-align: center;
+}
+
+.span {
+    font-size: calc(10px + 5vh);
+}
+
+@media only screen and (max-width: 600px) {
+    .nav-images > img {
+        height: 30vh;
+    }
+}

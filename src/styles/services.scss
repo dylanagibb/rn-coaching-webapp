@@ -1,0 +1,40 @@
+.services-jumbotron {
+    background-color: transparent!important;
+    border-radius: 0;
+    height: 411px;
+    width: 1100px;
+}
+
+.services-box-1 {
+    background-image: url("../images/services-box-1.png");
+}
+
+.services-box-2 {
+    background-image: url("../images/services-box-2.png");
+}
+  
+.services-jumbotron > .row > .col > h1 {
+    font-family: 'Pacifico', sans-serif;
+    text-align: center;
+    font-size: calc(30px + 3vh);
+    color:#FFFFFF;
+}
+  
+.services-jumbotron > .row > .col > p {
+    font-size: calc(18px + 1vh);
+    padding-top: 50px;
+    padding-left: 25px;
+    padding-right: 20px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.centerme {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+@media only screen and (max-width: 600px) {
+
+}
