@@ -13,7 +13,7 @@ function Footer() {
             <Container className="footer-child" fluid>
                 <Row>
                     <Col>
-                        <p>Unit 4, C TEK Building, <br/> Riverside Road, <br/> Carrickmacross, <br/> Telephone: 0871907175</p>
+                        <p>Unit 4, C TEK Building, <br/> Riverside Road, <br/> Carrickmacross, <br/> Telephone: 0879756140</p>
                     </Col>
                 </Row><br/>
                 <Row>
